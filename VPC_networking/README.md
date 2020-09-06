@@ -22,7 +22,7 @@ Table of Contents
 ## Task 2: Create an auto mode network 
 
 * [Create an auto mode VPC network with firewall rules](#create-an-auto-mode-vpc-network-with-firewall-rules)
-  * [Create a VM instance in the us-central1 region](#create-a-vm-instance-in-the-us-central1-region)
+  * [Create a VM instance in the us-central1 region](#create-a-VM-instance-in-the-us-central1-region)
   * [Create a VM instance in europe-west1](#create-a-vm-instance-in-europe-west1)
 * [Verify connectivity for the VM instances](#verify-connectivity-for-the-vm-instances)
 
