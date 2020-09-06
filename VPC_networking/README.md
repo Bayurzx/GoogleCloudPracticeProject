@@ -90,9 +90,9 @@ You will be presented with the available network. Copy the name of the network (
 gcloud compute instances describe [NETWORK-NAME]
 ```
 
-##Create a new auto mode VPC network with subnets, routes, firewall rules
+## Create a new auto mode VPC network with subnets, routes, firewall rules
 
-##View the firewall rules
+## View the firewall rules
 Each VPC network implements a distributed virtual firewall that you can configure. Firewall rules allow you to control which packets are allowed to travel to which destinations. Every VPC network has two implied firewall rules that block all incoming connections and allow all outgoing connections.
 The following command describes an individual firewall rule. Replace [FIREWALL-NAME] with the name of the firewall rule. Because firewall rule names are unique to the project, you don't have to specify a network when describing an existing one.
 Notice that there are 4 Ingress firewall rules for the default network:
@@ -105,7 +105,7 @@ Notice that there are 4 Ingress firewall rules for the default network:
 gcloud compute firewall-rules describe [FIREWALL-NAME]
 ```
 
-##Delete the Firewall rules
+## Delete the Firewall rules
 The following command deletes a firewall rule. Replace [FIREWALL-NAME] with the name of the rule to be deleted.
 ```console
 gcloud compute firewall-rules delete [FIREWALL-NAME]
@@ -113,7 +113,7 @@ gcloud compute firewall-rules delete [FIREWALL-NAME]
 
 Repeat this for each of the firewall-rules listed above.
 
-##Delete the default network
+## Delete the default network
 To delete the default network, run:
 
 ```console
@@ -141,8 +141,8 @@ gcloud compute instances create [INSTANCE_NAME]
 
 As expected, you cannot create a VM instance without a VPC network!
 
-##Task 2: Create an auto mode network
-##Create an auto mode VPC network with firewall rules
+## Task 2: Create an auto mode network
+## Create an auto mode VPC network with firewall rules
 
 1. 
 ```console
