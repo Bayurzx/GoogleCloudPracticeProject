@@ -137,8 +137,9 @@ gcloud compute --project=qwiklabs-gcp-01-8c72720fba45 firewall-rules create defa
 
 gcloud compute --project=qwiklabs-gcp-01-8c72720fba45 firewall-rules create default-allow-https --direction=INGRESS --priority=1000 --network=default --action=ALLOW --rules=tcp:443 --source-ranges=0.0.0.0/0 --target-tags=https-server
 
-```console
+
 ### Set the password for the VM
+```console
 gcloud compute reset-windows-password win-vm
 ```
 
