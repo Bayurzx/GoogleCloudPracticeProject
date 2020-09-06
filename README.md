@@ -12,7 +12,7 @@ All Google Cloud learners have access to multiple learning channels on Pluralsig
 * Creating Virtual Machine
 * VPC Networking
 * Implementing Cloud SQL
-* 
+* VPC Networking
 
 
 
