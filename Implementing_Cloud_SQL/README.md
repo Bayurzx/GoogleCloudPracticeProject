@@ -10,7 +10,7 @@
 * [Task 1: Create a Cloud SQL database](#task-1-create-a-cloud-sql-database)
 
 * [Task 2: Configure a proxy on a virtual machine](*task-2-configure-a-proxy-on-a-virtual-machine)
-  * [SSH to wordpress-europe-proxy](#ssh-to-wordpresseuropeproxy)
+  * [SSH to wordpress-europe-proxy](#SSH-to-wordpress-europe-proxy)
   * [Connect to your Cloud SQL instance](#connect-to-your-cloud-sql-instance)
 
 * [Task 3: Connect an application to the Cloud SQL instance](#task-3-connect-an-application-to-the-cloud-sql-instance)
@@ -126,7 +126,7 @@ In order to configure the proxy, you need the Cloud SQL instance connection name
 The lab comes with 2 virtual machines preconfigured with Wordpress and its dependencies. You can view the startup script and service account access by clicking on a virtual machine name. Notice that we used the principle of least privilege and only allow SQL access for that VM. There's also a network tag and a firewall preconfigured to allow port 80 from any host.
 
 
-### SSH to wordpresseuropeproxy
+### SSH to wordpress-\europe\-proxy
 
 ```console
 gcloud compute ssh 
