@@ -25,8 +25,7 @@ Table of Contents
   * [Create a VM instance in the us-central1 region](#create-a-VM-instance-in-the-us-central1-region)
   * [Create a VM instance in europe-west1](#create-a-vm-instance-in-europe-west1)
 * [Verify connectivity for the VM instances](#verify-connectivity-for-the-vm-instances)
-
-*Convert the auto mode network to a custom mode network
+* [Convert the auto mode network to a custom mode network](#Convert-the-auto-mode-network-to-a-custom-mode-network)
 
 ## Task 3: Create 2 more VM instances 
 
@@ -227,7 +226,7 @@ mynet-eu-vm  europe-west1-c  n1-standard-1               10.132.0.2   34.76.82.2
 ```
 
 
-Verify connectivity for the VM instances
+### Verify connectivity for the VM instances
 The firewall rules that you created with mynetwork allow ingress SSH and ICMP traffic from within mynetwork (internal IP) and outside that network (external IP).
 	1.	Run the following code:
 ```console
@@ -298,7 +297,7 @@ ping -c 3 mynet-eu-vm
 ping -c 3 <Enter mynet-eu-vm's external IP here>
 ```
 
-Convert the network to a custom mode network
+### Convert the network to a custom mode network
 Exit out of the shell. Run:
 
 ```console
