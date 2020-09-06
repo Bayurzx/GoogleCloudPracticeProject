@@ -11,7 +11,7 @@
 
 * [Task 2: Configure a proxy on a virtual machine](*task-2-configure-a-proxy-on-a-virtual-machine)
   * [SSH to wordpress-europe-proxy](#ssh-to-wordpress-europe-proxy)
-  * [Connect to your Cloud SQL instance](#connect-to-your-cloud-sql-instance
+  * [Connect to your Cloud SQL instance](#connect-to-your-cloud-sql-instance)
 
 * [Task 3: Connect an application to the Cloud SQL instance](#task-3-connect-an-application-to-the-cloud-sql-instance)
   * [Configure the Wordpress-application](#configure-the-wordpress-application)
