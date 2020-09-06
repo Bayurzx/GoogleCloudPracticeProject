@@ -16,6 +16,6 @@ All Google Cloud learners have access to multiple learning channels on Pluralsig
 
 
 
-<p align="right">
-     &copy; [Tianamanantsoa RAMBELOSON](https://www.linkedin.com/in/tianamanantsoa-rambeloson/)
-</p>
+
+                                                                                      &copy;[Tianamanantsoa RAMBELOSON](https://www.linkedin.com/in/tianamanantsoa-rambeloson/)
+
