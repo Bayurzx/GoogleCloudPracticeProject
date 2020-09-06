@@ -12,6 +12,8 @@ Table of Contents
 ## Task 1: Explore the default network 
 
 * [Create a new auto mode VPC network with subnets, routes, firewall rules](#Create-a-new-auto-mode-VPC-network-with subnets-routes-firewall-rules)
+  * [View the subnets](#view-the-firewall-rules)
+  * [View the routes](#Delete-the-firewall-rules)
   * [View the firewall rules](#view-the-firewall-rules)
   * [Delete the firewall rules](#Delete-the-firewall-rules)
   * [Delete the default network](#Delete-the-default-network)
