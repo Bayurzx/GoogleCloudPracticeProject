@@ -9,7 +9,7 @@ All Google Cloud learners have access to multiple learning channels on Pluralsig
 
 ### Labs in command line instructions
 
-* Creating Virtual Machine
+* [Creating Virtual Machine](https://github.com/rmanantsoa/GoogleCloudPracticeProject/blob/master/Creating_Virtual_Machines/README.md)
 * VPC Networking
 * Implementing Cloud SQL
 * [VPC Networking](https://github.com/rmanantsoa/GoogleCloudPracticeProject/blob/master/VPC_networking/README.md)
