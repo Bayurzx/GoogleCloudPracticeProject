@@ -21,7 +21,7 @@ Table of Contents
 
 ## Task 2: Create an auto mode network 
 
-* [Create an auto mode VPC network with firewall rules] (#create-an-auto-mode-vpc-network-with-firewall-rules)
+* [Create an auto mode VPC network with firewall rules](#create-an-auto-mode-vpc-network-with-firewall-rules)
   * [Create a VM instance in the us-central1 region](#create-a-vm-instance-in-the-us-central1-region)
   * [Create a VM instance in europe-west1](#create-a-vm-instance-in-europe-west1)
 * [Verify connectivity for the VM instances](#verify-connectivity-for-the-vm-instances)
@@ -31,7 +31,7 @@ Table of Contents
 ## Task 3: Create 2 more VM instances 
 
 * [Create the managementnet network](#create-the-managementnet-network) 
-* [Create the privatenet network] (#create-the-privatenet-network)
+* [Create the privatenet network](#create-the-privatenet-network)
 * [Create the firewall rules for managementnet](#create-the-firewall-rules-for-managementnet)
 * [Create the firewall rules for privatenet](#create-the-firewall-rules-for-privatenet)
 
