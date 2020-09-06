@@ -11,7 +11,7 @@ Table of Contents
 
 ## Task 1: Explore the default network 
 
-* [Create a new auto mode VPC network with subnets, routes, firewall rules](#Create-a-new-auto-mode-VPC-network-with subnets-routes-firewall-rules)
+  * [Create a new auto mode VPC network with subnets,routes,firewall rules](#Create-a-new-auto-mode-VPC-network-with subnets-routes-firewall-rules)
   * [View the subnets](#view-the-firewall-rules)
   * [View the routes](#Delete-the-firewall-rules)
   * [View the firewall rules](#view-the-firewall-rules)
@@ -55,8 +55,8 @@ VPC networking documentation and summary can be found here: https://cloud.google
 Use the credentials provided by Qwiklabs as well as the google cloud console or the google cloud SDK. 
 ## Install Cloud SDK
 For instructions on how to install the google cloud SDK visit google documentation: https://cloud.google.com/sdk/install. 
-##Configure authentication
-##Qwiklabs User
+## Configure authentication
+## Qwiklabs User
 Take note of the username provided by Qwiklabs and the user associated with the temporary Qwiklabs email assigned to this project.
 From the cloud shell run the following to confirm the credentialed account 
 
