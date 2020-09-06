@@ -9,7 +9,7 @@ Table of Contents
   * [GCP Project ID](#gcp-project-id)
 
 
-* Task 1: Explore the default network 
+## Task 1: Explore the default network 
 
 * [Create a new auto mode VPC network with subnets, routes, firewall rules](#Create-a-new-auto-mode-VPC-network-with subnets-routes-firewall-rules)
   * [View the firewall rules](#view-the-firewall-rules)
@@ -17,7 +17,7 @@ Table of Contents
   * [Delete the default network](#Delete-the-default-network)
   * [Try to create a VM instance](#try-to-create-a-VM-instance)
 
-* Task 2: Create an auto mode network 
+## Task 2: Create an auto mode network 
 
 * [Create an auto mode VPC network with firewall rules] (#create-an-auto-mode-vpc-network-with-firewall-rules)
   * [Create a VM instance in the us-central1 region](#create-a-vm-instance-in-the-us-central1-region)
@@ -26,7 +26,7 @@ Table of Contents
 
 *Convert the auto mode network to a custom mode network
 
-* Task 3: Create 2 more VM instances 
+## Task 3: Create 2 more VM instances 
 
 * [Create the managementnet network](#create-the-managementnet-network) 
 * [Create the privatenet network] (#create-the-privatenet-network)
@@ -39,7 +39,7 @@ Create two VM instances:
 
 
 
-* Task 4: Explore connectivity across networks
+## Task 4: Explore connectivity across networks
 
   * [Enter SSH](#enter-ssh)
   * [Ping the external IP addresses](#ping-the-external-ip-addresses)
