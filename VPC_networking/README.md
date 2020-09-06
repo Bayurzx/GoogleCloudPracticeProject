@@ -194,7 +194,7 @@ mynet-us-vm  us-central1-c  n1-standard-1               10.128.0.2   34.123.171.
 ```
 
 
-Create a VM instance in europe-west1
+### Create a VM instance in europe\-west1
 Specify the following, and leave the remaining settings as their defaults:
 
 	Name
