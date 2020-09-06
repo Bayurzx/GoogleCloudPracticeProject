@@ -7,18 +7,18 @@ Table of Contents
   * [Qwiklabs User](#qwiklabs-user)
   * [GCP Project ID](#gcp-project-id)
 
-* [Create a virtual machine)](*create-a-virtual-machine)
-  * [Create a VM](*create-a-vm)
-  * [Explore the VM details](*explore-the-vm-details)
-  * [Examine availability policies](*examine-availability-policies)
-  * [Explore the VM logs](*exxplore-the-vm-logs)
+* [Create a virtual machine)](#create-a-virtual-machine)
+  * [Create a VM](#create-a-vm)
+  * [Explore the VM details](#explore-the-vm-details)
+  * [Examine availability policies](#examine-availability-policies)
+  * [Explore the VM logs](#explore-the-vm-logs)
 
 * [Create a Windows VM](*create-a-windows-vm)
-  * [Create a VM](*create-a-vm)
-  * [Set the password for the VM](*set-the-password-for-the-vm)
+  * [Create a VM](#create-a-vm)
+  * [Set the password for the VM](#set-the-password-for-the-vm)
 
-* [Clean up](clean-up)
-  * [Delete the VM](*delete-the-vm)
+* [Clean up](#clean-up)
+  * [Delete the VM](#delete-the-vm)
 
 
 ### Introduction
