@@ -1,2 +1,2 @@
-#cloudshell-commands-for-qwiklabs
-cloudshell-commands-for-qwiklabs
+# Google Cloud Practice Project 
+
