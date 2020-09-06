@@ -13,7 +13,7 @@ Table of Contents
   * [Examine availability policies](#examine-availability-policies)
   * [Explore the VM logs](#explore-the-vm-logs)
 
-* [Create a Windows VM](*create-a-windows-vm)
+* [Create a Windows VM](#create-a-windows-vm)
   * [Create a VM](#create-a-vm)
   * [Set the password for the VM](#set-the-password-for-the-vm)
 
