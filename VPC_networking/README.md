@@ -297,7 +297,8 @@ ping -c 3 mynet-eu-vm
 ping -c 3 <Enter mynet-eu-vm's external IP here>
 ```
 
-### Convert the network to a custom mode network
+### Convert the auto mode network to a custom mode network
+
 Exit out of the shell. Run:
 
 ```console
