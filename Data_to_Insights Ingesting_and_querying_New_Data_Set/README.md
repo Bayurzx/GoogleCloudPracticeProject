@@ -14,15 +14,15 @@
 
 * [Upload a dataset to Google Cloud Storage](#upload-a-dataset-to-google-cloud)
   * [Clone this git repository](#clone-this-git-repository)
-  * [Create a storage bucket](*create-a-storage-bucket)
+  * [Create a storage bucket](#create-a-storage-bucket)
  
 
 ## Ingesting a CSV into a Google BigQuery Table 
 
-* [Open BigQuery] (#open-bigquery)
-* [Create a dataset](*create-a-dataset)
-* [Upload the dataset](*upload-the-dataset)
-* [Create table](*create-table)
+* [Open BigQuery](#open-bigquery)
+* [Create a dataset](#create-a-dataset)
+* [Upload the dataset](#upload-the-dataset)
+* [Create table](#create-table)
 
 ## Run queries
 
