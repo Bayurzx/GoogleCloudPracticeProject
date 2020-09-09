@@ -18,5 +18,5 @@ to reduce time spent on a task so that the student can complete the task in the 
 
 
 
-This repository is a collaboration effort by [Tianamanantsoa RAMBELOSON](https://www.linkedin.com/in/tianamanantsoa-rambeloson/) and  Nadine van der Haar
+This repository is a collaboration effort by [Tianamanantsoa RAMBELOSON](https://www.linkedin.com/in/tianamanantsoa-rambeloson/) and [Nadine van der Haar]((https://www.linkedin.com))
 
