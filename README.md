@@ -17,5 +17,5 @@ All Google Cloud learners have access to multiple learning channels on Pluralsig
 
 
 
-This repository is a collaboration effort by Nadine van der Haar and  [Tianamanantsoa RAMBELOSON](https://www.linkedin.com/in/tianamanantsoa-rambeloson/)
+This repository is a collaboration effort by [Tianamanantsoa RAMBELOSON](https://www.linkedin.com/in/tianamanantsoa-rambeloson/) and  Nadine van der Haar
 
