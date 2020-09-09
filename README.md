@@ -1,11 +1,13 @@
 # Google Cloud Practice Project 
- During Learning Phase 2 participants in the Cloud track of the GADS 2020 program shall be encouraged to explore the possibilities and opportunities to work with the gcloud SDK more in detail.
+This repository assists user to complete qwiklab assignments from the cloud shell, or using google cloud SDK, without using the GCP UI.
 
- Due to limitations in regards to accessing free Google Cloud Platform (GCP), the Google Cloud challenge is based on the available hands-on labs on Qwiklabs provided by Pluralsight. Learners in the Cloud track have free access to a selection of fundamental labs on GCP.
+There are additional bash files included in this repository, referred to in the instructions as "bash assistance"
 
-### The playground
+"bash assistance" prompts the student to enter only the necessary details for a task, and completes the defaults for the student.
 
-All Google Cloud learners have access to multiple learning channels on Pluralsight. Each channel provides access to several video courses, and you have access to various labs through Qwiklabs
+The purpose of bash assistance to retain the diffulty level of the qwiklab, and
+
+to reduce time spent on a task so that the student can complete the task in the same amount of time as he/she would using the web console.
 
 ### Labs in command line instructions
 
