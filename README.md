@@ -8,7 +8,7 @@ This repository assists user to complete qwiklab assignments from the cloud shel
 * [Creating Virtual Machine](https://github.com/rmanantsoa/GoogleCloudPracticeProject/blob/master/Creating_Virtual_Machines/README.md)
 * [VPC Networking](https://github.com/rmanantsoa/GoogleCloudPracticeProject/blob/master/VPC_networking/README.md)
 * [Implementing Cloud SQL](https://github.com/rmanantsoa/GoogleCloudPracticeProject/blob/master/Implementing_Cloud_SQL/README.md)
-* [VPC Networking](https://github.com/rmanantsoa/GoogleCloudPracticeProject/blob/master/VPC_networking/README.md)
+* [Data to Insights: Ingesting and Querying New Datasets](https://github.com/rmanantsoa/GoogleCloudPracticeProject/blob/master/VPC_networking/README.md)
 
 
 
