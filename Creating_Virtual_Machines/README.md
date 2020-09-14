@@ -60,9 +60,9 @@ gcloud projects list
 ```
 
 
-##	Create a virtual machine
+##	task 1 Create a virtual machine
 
-### task 1 Create a VM
+### Create a VM
 
 Run the following command to service accounts:
 
