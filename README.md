@@ -10,8 +10,3 @@ This repository assists user to complete qwiklab assignments from the cloud shel
 * [Implementing Cloud SQL](https://github.com/rmanantsoa/GoogleCloudPracticeProject/blob/master/Implementing_Cloud_SQL/README.md)
 * [Data to Insights: Ingesting and Querying New Datasets](https://github.com/rmanantsoa/GoogleCloudPracticeProject/blob/master/Data_to_Insights%20Ingesting_and_querying_New_Data_Set/README.md)
 
-
-
-
-This repository is a collaboration effort by [Tianamanantsoa RAMBELOSON](https://www.linkedin.com/in/tianamanantsoa-rambeloson/) and [Nadine van der Haar](https://www.linkedin.com)
-
