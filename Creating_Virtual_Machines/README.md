@@ -7,13 +7,13 @@ Table of Contents
   * [Qwiklabs User](#qwiklabs-user)
   * [GCP Project ID](#gcp-project-id)
 
-## [Task 1 - Create a virtual machine)](#create-a-virtual-machine)
+### [Task 1 - Create a virtual machine](#task-1-create-a-virtual-machine)
   * [Create a VM](#create-a-vm)
   * [Explore the VM details](#explore-the-vm-details)
   * [Examine availability policies](#examine-availability-policies)
   * [Explore the VM logs](#explore-the-vm-logs)
 
-## [Task 2 - Create a Windows VM](#create-a-windows-vm)
+### [Task 2 - Create a Windows VM](#task-2-create-a-windows-vm)
   * [Create a VM](#create-a-vm)
   * [Set the password for the VM](#set-the-password-for-the-vm)
 
@@ -62,7 +62,7 @@ gcloud projects list
 
 ##	Create a virtual machine
 
-### Create a VM
+### task 1 Create a VM
 
 Run the following command to service accounts:
 
@@ -123,7 +123,7 @@ gcloud compute instances list
 
 
 
-## Create a Windows VM
+## task 2 Create a Windows VM
 
 ### Create a VM
 
