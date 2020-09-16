@@ -1,9 +1,9 @@
 # Google Cloud Practice Project 
 
 
-This repository assists user to complete qwiklab assignments from the cloud shell, or using google cloud SDK, without using the GCP UI. 
+This repository is a translation of qwiklab Lab from GUI to full the gcloud shell command. 
 
-### Labs in command line instructions
+### Here are two Labs in command line instructions
 
 
 * [VPC Networking](https://github.com/rmanantsoa/GoogleCloudPracticeProject/blob/master/VPC_networking/README.md)
