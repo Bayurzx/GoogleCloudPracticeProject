@@ -49,11 +49,11 @@ Create two VM instances:
 
 
 ## Introduction
-VPC networking documentation and summary can be found here: https://cloud.google.com/vpc. The Qwiklabs covered in this tutorial is called ‘VPC Networking’. The instructions have been modified so that they can be completed using the cloud shell terminal only or using the google cloud SDK. 
+The official documentatin for VPC networking and summary are available here: https://cloud.google.com/vpc. 
 ## Prerequisites
 Use the credentials provided by Qwiklabs as well as the google cloud console or the google cloud SDK. 
 ## Install Cloud SDK
-For instructions on how to install the google cloud SDK visit google documentation: https://cloud.google.com/sdk/install. 
+The instructions for Google sdk installation can be found here : https://cloud.google.com/sdk/install. 
 ## Configure authentication
 ## Qwiklabs User
 Take note of the username provided by Qwiklabs and the user associated with the temporary Qwiklabs email assigned to this project.
